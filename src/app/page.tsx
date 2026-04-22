@@ -61,15 +61,15 @@ export default function LandingPage() {
       description="Découvrez l'authenticité des saveurs grillées au cœur de Safi. Une expérience culinaire mémorable alliant tradition et qualité supérieure."
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/moroccan-serving-mint-tea-traditional-way_268835-3983.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/moroccan-serving-mint-tea-traditional-way_268835-3983.jpg?_wi=1",
           imageAlt: "Restaurant ambiance",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/salad-with-crab-sticks-eggs-corn-cucumber_114579-44487.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/salad-with-crab-sticks-eggs-corn-cucumber_114579-44487.jpg?_wi=1",
           imageAlt: "Plats traditionnels",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-delicious-vegetables-market_23-2149050782.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-delicious-vegetables-market_23-2149050782.jpg?_wi=1",
           imageAlt: "Ingrédients frais",
         },
         {
@@ -77,7 +77,7 @@ export default function LandingPage() {
           imageAlt: "Ambiance terrasse",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/fried-fish-with-grilled-eggplants-bell-peppers-tomatoes_141793-735.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fried-fish-with-grilled-eggplants-bell-peppers-tomatoes_141793-735.jpg?_wi=1",
           imageAlt: "Spécialité maison",
         },
         {
@@ -115,7 +115,7 @@ export default function LandingPage() {
           },
           items: [],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/moroccan-serving-mint-tea-traditional-way_268835-3983.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/moroccan-serving-mint-tea-traditional-way_268835-3983.jpg?_wi=2",
           imageAlt: "fresh ingredients market vegetables",
         },
         {
@@ -126,7 +126,7 @@ export default function LandingPage() {
           },
           items: [],
           reverse: true,
-          imageSrc: "http://img.b2bpic.net/free-photo/salad-with-crab-sticks-eggs-corn-cucumber_114579-44487.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/salad-with-crab-sticks-eggs-corn-cucumber_114579-44487.jpg?_wi=2",
           imageAlt: "fresh ingredients market vegetables",
         },
         {
@@ -137,7 +137,7 @@ export default function LandingPage() {
           },
           items: [],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-delicious-vegetables-market_23-2149050782.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-delicious-vegetables-market_23-2149050782.jpg?_wi=2",
           imageAlt: "fresh ingredients market vegetables",
         },
       ]}
@@ -294,7 +294,7 @@ export default function LandingPage() {
           quote: "Service rapide et qualité top, je recommande vivement.",
           tag: "Habitué",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-woman-taking-photos_23-2149250046.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/moroccan-serving-mint-tea-traditional-way_268835-3983.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/moroccan-serving-mint-tea-traditional-way_268835-3983.jpg?_wi=3",
           imageAlt: "happy customer dining restaurant",
         },
         {
@@ -305,7 +305,7 @@ export default function LandingPage() {
           quote: "Un tajine bien cuit et un prix très correct.",
           tag: "Visiteur",
           avatarSrc: "http://img.b2bpic.net/free-photo/happy-woman-doing-selfie-with-modern-phone-cafe_7502-7239.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/salad-with-crab-sticks-eggs-corn-cucumber_114579-44487.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/salad-with-crab-sticks-eggs-corn-cucumber_114579-44487.jpg?_wi=3",
           imageAlt: "happy customer dining restaurant",
         },
         {
@@ -316,7 +316,7 @@ export default function LandingPage() {
           quote: "Une jolie découverte pour le tajine de poissons.",
           tag: "Client",
           avatarSrc: "http://img.b2bpic.net/free-photo/happy-woman-paying-with-her-phone-via-contactless-payment-while-having-lunch-with-boyfriend-bar_637285-647.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-delicious-vegetables-market_23-2149050782.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-delicious-vegetables-market_23-2149050782.jpg?_wi=3",
           imageAlt: "happy customer dining restaurant",
         },
         {
@@ -327,7 +327,7 @@ export default function LandingPage() {
           quote: "La qualité est toujours au rendez-vous.",
           tag: "Fidèle",
           avatarSrc: "http://img.b2bpic.net/free-photo/smiley-women-eating-pizza-after-working_23-2148298076.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/fried-fish-with-grilled-eggplants-bell-peppers-tomatoes_141793-735.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fried-fish-with-grilled-eggplants-bell-peppers-tomatoes_141793-735.jpg?_wi=2",
           imageAlt: "happy customer dining restaurant",
         },
         {
